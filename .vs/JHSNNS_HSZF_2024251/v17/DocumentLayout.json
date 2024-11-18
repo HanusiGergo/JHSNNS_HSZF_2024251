@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|solutionrelative:jhsnns_hszf_2024251.console\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.console\\consoleappextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|solutionrelative:jhsnns_hszf_2024251.console\\consoleappextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25266591-7BB6-4F4B-AF62-14502A14334B}|JHSNNS_HSZF_2024251.Test\\JHSNNS_HSZF_2024251.Test.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.test\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25266591-7BB6-4F4B-AF62-14502A14334B}|JHSNNS_HSZF_2024251.Test\\JHSNNS_HSZF_2024251.Test.csproj|solutionrelative:jhsnns_hszf_2024251.test\\taskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25266591-7BB6-4F4B-AF62-14502A14334B}|JHSNNS_HSZF_2024251.Test\\JHSNNS_HSZF_2024251.Test.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.test\\survivorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25266591-7BB6-4F4B-AF62-14502A14334B}|JHSNNS_HSZF_2024251.Test\\JHSNNS_HSZF_2024251.Test.csproj|solutionrelative:jhsnns_hszf_2024251.test\\survivorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|solutionrelative:jhsnns_hszf_2024251.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.console\\reports\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|solutionrelative:jhsnns_hszf_2024251.console\\reports\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.console\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E075AF-3A9B-48AD-9CBF-0C4B3428E547}|JHSNNS_HSZF_2024251.Console\\JHSNNS_HSZF_2024251.Console.csproj|solutionrelative:jhsnns_hszf_2024251.console\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.application\\services\\isurvivorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|solutionrelative:jhsnns_hszf_2024251.application\\services\\isurvivorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.application\\services\\implementations\\survivorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|solutionrelative:jhsnns_hszf_2024251.application\\services\\implementations\\survivorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E81DB41-EB82-4B3A-9A41-FAC9B987BE77}|JHSNNS_HSZF_2024251.Persistence.MsSql\\JHSNNS_HSZF_2024251.Persistence.MsSql.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.persistence.mssql\\survivorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E81DB41-EB82-4B3A-9A41-FAC9B987BE77}|JHSNNS_HSZF_2024251.Persistence.MsSql\\JHSNNS_HSZF_2024251.Persistence.MsSql.csproj|solutionrelative:jhsnns_hszf_2024251.persistence.mssql\\survivorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.application\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|solutionrelative:jhsnns_hszf_2024251.application\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.application\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E5B09D-A095-448B-8B66-D105ACB4CEF0}|JHSNNS_HSZF_2024251.Application\\JHSNNS_HSZF_2024251.Application.csproj|solutionrelative:jhsnns_hszf_2024251.application\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD9889-FF7C-4A85-AA2F-4103EA7AC3BC}|JHSNNS_HSZF_2024251.Model\\JHSNNS_HSZF_2024251.Model.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.model\\survivor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD9889-FF7C-4A85-AA2F-4103EA7AC3BC}|JHSNNS_HSZF_2024251.Model\\JHSNNS_HSZF_2024251.Model.csproj|solutionrelative:jhsnns_hszf_2024251.model\\survivor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD9889-FF7C-4A85-AA2F-4103EA7AC3BC}|JHSNNS_HSZF_2024251.Model\\JHSNNS_HSZF_2024251.Model.csproj|c:\\oe\\halad\u00F3 szoftverfejleszt\u00E9s\\f\u00E9l\u00E9ves\\jhsnns_hszf_2024251\\jhsnns_hszf_2024251.model\\survivortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD9889-FF7C-4A85-AA2F-4103EA7AC3BC}|JHSNNS_HSZF_2024251.Model\\JHSNNS_HSZF_2024251.Model.csproj|solutionrelative:jhsnns_hszf_2024251.model\\survivortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\appsettings.json",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Console\\appsettings.json",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\appsettings.json",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Console\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T14:12:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleAppExtension.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\ConsoleAppExtension.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Console\\ConsoleAppExtension.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\ConsoleAppExtension.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Console\\ConsoleAppExtension.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAASwEUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:43:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Console\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\DatabaseInitializer.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Console\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:50:20.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\Reports\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Console\\Reports\\ReportGenerator.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\Reports\\ReportGenerator.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Console\\Reports\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:43:46.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskServiceTests.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Test\\TaskServiceTests.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Test\\TaskServiceTests.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Test\\TaskServiceTests.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Test\\TaskServiceTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADgvzoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:26:35.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurvivorServiceTests.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Test\\SurvivorServiceTests.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Test\\SurvivorServiceTests.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Test\\SurvivorServiceTests.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Test\\SurvivorServiceTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADgvzoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:25:15.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SurvivorService.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\SurvivorService.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\SurvivorService.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\SurvivorService.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\SurvivorService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISurvivorService.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\ISurvivorService.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Application\\Services\\ISurvivorService.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\ISurvivorService.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Application\\Services\\ISurvivorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:29.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\Program.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Console\\Program.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Console\\Program.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:15:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SurvivorContext.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Persistence.MsSql\\SurvivorContext.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Persistence.MsSql\\SurvivorContext.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Persistence.MsSql\\SurvivorContext.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Persistence.MsSql\\SurvivorContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:17.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\TaskService.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\TaskService.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\TaskService.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Application\\Services\\Implementations\\TaskService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:31.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Application\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Application\\Services\\ITaskService.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Application\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:26.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Survivor.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Model\\Survivor.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Model\\Survivor.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Model\\Survivor.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Model\\Survivor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:23.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SurvivorTask.cs",
+              "DocumentMoniker": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Model\\SurvivorTask.cs",
+              "RelativeDocumentMoniker": "JHSNNS_HSZF_2024251.Model\\SurvivorTask.cs",
+              "ToolTip": "C:\\OE\\Halad\u00F3 Szoftverfejleszt\u00E9s\\F\u00E9l\u00E9ves\\JHSNNS_HSZF_2024251\\JHSNNS_HSZF_2024251.Model\\SurvivorTask.cs",
+              "RelativeToolTip": "JHSNNS_HSZF_2024251.Model\\SurvivorTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:16:20.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

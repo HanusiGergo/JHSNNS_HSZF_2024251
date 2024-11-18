@@ -1,0 +1,15 @@
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.deps.json
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Model.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Model.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.csproj.AssemblyReference.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.AssemblyInfoInputs.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.AssemblyInfo.cs
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.csproj.CoreCompileInputs.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_H.32C0413B.Up2Date
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\refint\JHSNNS_HSZF_2024251.Persistence.MsSql.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Persistence.MsSql\obj\Debug\net8.0\ref\JHSNNS_HSZF_2024251.Persistence.MsSql.dll

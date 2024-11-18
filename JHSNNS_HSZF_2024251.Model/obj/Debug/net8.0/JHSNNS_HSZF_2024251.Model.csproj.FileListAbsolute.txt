@@ -1,0 +1,11 @@
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Model.deps.json
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Model.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Model.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Model.AssemblyInfoInputs.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Model.AssemblyInfo.cs
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Model.csproj.CoreCompileInputs.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Model.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\refint\JHSNNS_HSZF_2024251.Model.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Model.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Model\obj\Debug\net8.0\ref\JHSNNS_HSZF_2024251.Model.dll

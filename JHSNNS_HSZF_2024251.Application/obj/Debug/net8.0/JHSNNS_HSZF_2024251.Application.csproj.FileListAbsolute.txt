@@ -1,0 +1,17 @@
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Application.deps.json
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Application.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Application.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Model.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Model.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\bin\Debug\net8.0\JHSNNS_HSZF_2024251.Persistence.MsSql.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Application.csproj.AssemblyReference.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Application.AssemblyInfoInputs.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Application.AssemblyInfo.cs
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Application.csproj.CoreCompileInputs.cache
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_H.E4BDC1FE.Up2Date
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Application.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\refint\JHSNNS_HSZF_2024251.Application.dll
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\JHSNNS_HSZF_2024251.Application.pdb
+C:\OE\Haladó Szoftverfejlesztés\Féléves\JHSNNS_HSZF_2024251\JHSNNS_HSZF_2024251.Application\obj\Debug\net8.0\ref\JHSNNS_HSZF_2024251.Application.dll
